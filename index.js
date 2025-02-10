@@ -57,15 +57,15 @@ const rpcStates = [
     {
         type: 'STREAMING',
         name: 'Coding Adventures',
-        details: '! Syntax 🥀',
-        state: 'Mxybe a dev?',
+        details: '! Kaizen 🥀',
+        state: 'Mxybe a Coder?',
         url: 'https://www.twitch.tv/Syntax',
         timestamps: {
             start: Date.now()
         },
         assets: {
-            largeImage: 'https://media.discordapp.net/attachments/1319666530828550206/1327569707930484766/Aura.gif?ex=678e1723&is=678cc5a3&hm=19c91a1b88cde99b704f67591765e14c5e3f8ba3685fe4bd299c486a98a91ed7&=',
-            largeText: 'Code Wizard',
+            largeImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338445568795480126/6923633517e295e1.gif?ex=67ab1c12&is=67a9ca92&hm=67838343c440592fb306f517f60b08e11994393240f6ce94e6e939881e85c166&=',
+            largeText: 'Gow..!?',
             smallImage: 'https://cdn.discordapp.com/emojis/1224756226311852042.gif?size=48',
             smallText: 'Hacker Mode'
         },
@@ -76,21 +76,21 @@ const rpcStates = [
     },
     {
         type: 'WATCHING',
-        name: 'Pihu',
-        details: 'I Love Pihu <3',
-        state: 'She is mine',
+        name: 'Chote bhaii',
+        details: '! Mxbye Unrivaled..!?',
+        state: 'All this shit..!?',
         timestamps: {
             start: Date.now()
         },
         assets: {
-            largeImage: 'https://media.discordapp.net/attachments/1318214017009061941/1330475639668609065/couple_gifs.gif?ex=678e1d7f&is=678ccbff&hm=6c54617923dba04579f418287266a1de0d568e53ad0896ee1673b45dcf43ee9f&=',
-            largeText: 'Syntax Love Pihu',
-            smallImage: 'https://cdn.discordapp.com/emojis/1208635453331214358.gif?size=48',
-            smallText: 'Pihu Qt'
+            largeImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338446053711544448/a_f7adae56929e2404cd199bfbf49e4bb2.gif?ex=67ab1c86&is=67a9cb06&hm=5905323b9ef639d1b38d746f97a730705e21d9b53d020ccff83bdd3240149e26&=',
+            largeText: 'Bitchh',
+            smallImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338126456705777746/8285d845fbce5ede830d6291fec56b14.gif?ex=67aa9ba0&is=67a94a20&hm=81883c08918a697f7bfc1356c51057f5db0fe392098b4c75f7089d9e6332dae4&=',
+            smallText: 'Damn..!?'
         },
         buttons: [
-            { label: 'Ownz..?', url: 'https://discord.gg/5yqxjKdyy8' },
-            { label: 'Bio', url: 'https://guns.lol/xpy3' }
+            { label: 'Ownz..?', url: 'https://discord.gg/simps' },
+            { label: 'Bio', url: 'https://monkeytype.com/' }
         ]
     },
     {
