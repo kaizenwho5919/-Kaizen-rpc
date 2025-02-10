@@ -96,8 +96,8 @@ const rpcStates = [
     {
         type: 'PLAYING',
         name: 'Type shit.!? 🥀',
-        details: 'Debugging Life',
-        state: 'Raiding Mode',
+        details: 'Luv Is Rage 2 <3',
+        state: 'Fxck Love..!?',
         timestamps: {
             start: Date.now()
         },
