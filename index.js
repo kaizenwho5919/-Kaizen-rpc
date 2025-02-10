@@ -37,7 +37,7 @@ const moment = require('moment');
 
 
 const config = {
-    token: 'OTMxNTEyMzE3MzY2MTA4MjEw.Guqjlo.VHzHF9MhfGIB2wGFWjcpKNEn9i4_MAOX8Yj8xU', // Replace with your token
+    //token: '', // Replace with your token
     status: {
         type: 'dnd',
         emoji: '🌟'
@@ -242,4 +242,4 @@ process.on('SIGINT', () => {
 });
 
 
-client.login(config.token);
+client.login(process.env.TOKEN);
