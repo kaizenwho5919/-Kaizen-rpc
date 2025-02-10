@@ -76,8 +76,8 @@ const rpcStates = [
     },
     {
         type: 'WATCHING',
-        name: 'Chote bhaii',
-        details: '! Mxbye Unrivaled..!?',
+        name: '! Mxbye Arjun 🥀',
+        details: '! Mxbye Unrivaled..!? 🥀',
         state: 'All this shit..!?',
         timestamps: {
             start: Date.now()
@@ -95,21 +95,21 @@ const rpcStates = [
     },
     {
         type: 'PLAYING',
-        name: '/query in mind',
+        name: 'Type shit.!? 🥀',
         details: 'Debugging Life',
         state: 'Raiding Mode',
         timestamps: {
             start: Date.now()
         },
         assets: {
-            largeImage: 'https://media.discordapp.net/attachments/1318214017009061941/1330475624242089984/download.gif?ex=678e1d7b&is=678ccbfb&hm=0b96e17d65457635269e2547a4ea476f68bd29b85e751294bcf0497b6b3358e6&=',
-            largeText: 'Raid Mode',
+            largeImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338447551778656296/8ed7c9f0dd685accc8486ed622c5dcd4.gif?ex=67ab1deb&is=67a9cc6b&hm=8d3c14ac0834e260fd23fc87eec698e563ff28d56b592b71b660c4d5ed152a41&=',
+            largeText: 'Smokeee...',
             smallImage: 'https://cdn.discordapp.com/emojis/1312633052668629055.gif?size=48',
             smallText: 'Be aware'
         },
         buttons: [
-            { label: 'H O M E T O W N', url: 'https://discord.gg/query' },
-            { label: 'Bio', url: 'https://guns.lol/xpy3' }
+            { label: 'H O M E T O W N', url: 'https://discord.gg/simps' },
+            { label: 'Bio', url: 'https://monkeytype.com/' }
         ]
     }
 ];
