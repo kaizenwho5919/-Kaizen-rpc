@@ -64,8 +64,8 @@ const rpcStates = [
             start: Date.now()
         },
         assets: {
-            largeImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338445568795480126/6923633517e295e1.gif?ex=67ab1c12&is=67a9ca92&hm=67838343c440592fb306f517f60b08e11994393240f6ce94e6e939881e85c166&=',
-            largeText: 'Gow..!?',
+            largeImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338451307119509554/5a309a4848e5724164982a83a7ed3ad7.gif?ex=67ab216a&is=67a9cfea&hm=baec663a5c2832f9f662f5aecaa3435c26f3de2d6774483a448078817cc939df&=',
+            largeText: 'Money 🗿..!?',
             smallImage: 'https://cdn.discordapp.com/emojis/1224756226311852042.gif?size=48',
             smallText: 'Hacker Mode'
         },
