@@ -37,7 +37,7 @@ const moment = require('moment');
 
 
 const config = {
-    token: 'TOKEN', // Replace with your token
+    token: '', // Replace with your token
     status: {
         type: 'dnd',
         emoji: '🌟'
