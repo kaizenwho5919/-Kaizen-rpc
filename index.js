@@ -96,15 +96,15 @@ const rpcStates = [
     },
     {
         type: 'PLAYING',
-        name: 'Type shit.!? 🥀',
-        details: 'Luv Is Rage 2 <3',
-        state: 'Fxck Love..!?',
+        name: 'Supii<3 🥀',
+        details: 'Pookieee 💖<3',
+        state: 'Ilhsm 🥰..!?',
         timestamps: {
             start: Date.now()
         },
         assets: {
-            largeImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338447551778656296/8ed7c9f0dd685accc8486ed622c5dcd4.gif?ex=67ab1deb&is=67a9cc6b&hm=8d3c14ac0834e260fd23fc87eec698e563ff28d56b592b71b660c4d5ed152a41&=',
-            largeText: 'Smokeee...',
+            largeImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338920892809347163/20220827_072402.gif?ex=67acd6c0&is=67ab8540&hm=3ff646acf0c24d78c0de999dd5a20c18786d2cff9db30c1ff36b9fc0012d7b5c&=',
+            largeText: 'Hihi...',
             smallImage: 'https://cdn.discordapp.com/emojis/1312633052668629055.gif?size=48',
             smallText: 'Be aware'
         },
