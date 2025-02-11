@@ -85,7 +85,7 @@ const rpcStates = [
         assets: {
             largeImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338446053711544448/a_f7adae56929e2404cd199bfbf49e4bb2.gif?ex=67ab1c86&is=67a9cb06&hm=5905323b9ef639d1b38d746f97a730705e21d9b53d020ccff83bdd3240149e26&=',
             largeText: 'Bitchh',
-            smallImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338126456705777746/8285d845fbce5ede830d6291fec56b14.gif?ex=67aa9ba0&is=67a94a20&hm=81883c08918a697f7bfc1356c51057f5db0fe392098b4c75f7089d9e6332dae4&=',
+            smallImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338126456705777746/8285d845fbce5ede830d6291fec56b14.gif?ex=67abed20&is=67aa9ba0&hm=6e7f1bb4eb960ef6e127e38ffc850e0f83a87ae6a7b32ac7cd8c8ccfad829cf3&=',
             smallText: 'Damn..!?'
         },
         buttons: [
