@@ -3,6 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
+const keep_alive = require('./keep_alive.js')
 
 function installModules() {
     const requiredModules = [
