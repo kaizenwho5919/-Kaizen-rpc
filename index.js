@@ -91,7 +91,7 @@ const rpcStates = [
         },
         buttons: [
             { label: 'Ownz..?', url: 'https://discord.gg/simps' },
-            { label: 'Bio', url: 'https://monkeytype.com/' }
+            { label: 'Bio', url: 'https://guns.lol/kaizenwhoo' }
         ]
     },
     {
@@ -110,7 +110,7 @@ const rpcStates = [
         },
         buttons: [
             { label: 'H O M E T O W N', url: 'https://discord.gg/simps' },
-            { label: 'Bio', url: 'https://monkeytype.com/' }
+            { label: 'Bio', url: 'https://guns.lol/kaizenwhoo' }
         ]
     }
 ];
