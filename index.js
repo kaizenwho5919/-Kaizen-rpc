@@ -86,7 +86,7 @@ const rpcStates = [
         assets: {
             largeImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338803197086666793/ea506e71dd3c834f10805275cd65a116.jpg?ex=67ac6923&is=67ab17a3&hm=c1607b8d1c5dd544300a77afc2594caafa7b2d586befc0b1179814ffc85327af&=&format=webp&width=391&height=631',
             largeText: 'Nym..!?',
-            smallImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338126456705777746/8285d845fbce5ede830d6291fec56b14.gif?ex=67abed20&is=67aa9ba0&hm=6e7f1bb4eb960ef6e127e38ffc850e0f83a87ae6a7b32ac7cd8c8ccfad829cf3&=',
+            smallImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338126456705777746/8285d845fbce5ede830d6291fec56b14.gif?ex=67ad3ea0&is=67abed20&hm=e7ffeab881385bc7ffc6d6779791828b94ae8b33a3f1c500fa189328250f1a95&=',
             smallText: 'Damn..!?'
         },
         buttons: [
@@ -97,8 +97,8 @@ const rpcStates = [
     {
         type: 'PLAYING',
         name: 'Supii<3 🥀',
-        details: 'Pookieee 💖<3',
-        state: 'Ilhsm 🥰..!?',
+        details: 'Kaizen Loves Supriya 💖<3',
+        state: 'Only her 🥰..!?',
         timestamps: {
             start: Date.now()
         },
