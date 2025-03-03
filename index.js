@@ -65,9 +65,9 @@ const rpcStates = [
             start: Date.now()
         },
         assets: {
-            largeImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338796205114654730/49969923d81582ef25c5ac1fedb71e45_1.gif?ex=67adb420&is=67ac62a0&hm=7e5415b82718b65fd8017ee32b19f8bd793bf12e4086f4ba14fab8aab14fb846&=',
+            largeImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338796205114654730/49969923d81582ef25c5ac1fedb71e45_1.gif?ex=67c617e0&is=67c4c660&hm=413edb6ce8b8cfc65015d15ffe2755f074128f06934863128737cd6e593ef6db&=',
             largeText: 'CR7🗿..!?',
-            smallImage: 'https://cdn.discordapp.com/emojis/1224756226311852042.gif?size=48',
+            smallImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338126456705777746/8285d845fbce5ede830d6291fec56b14.gif?ex=67c64b20&is=67c4f9a0&hm=f7eb7817c2d6e86b0de7105b14bc05d4033b88f58f141ab7a44032fd69959068&=',
             smallText: 'Hacker Mode'
         },
         buttons: [
@@ -84,9 +84,9 @@ const rpcStates = [
             start: Date.now()
         },
         assets: {
-            largeImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338795355659046922/4eb056dae9372fb0907723a060fd3f84.gif?ex=67adb356&is=67ac61d6&hm=d876e83c646663ebbcf7166442c84bbdc71e369e0fca042fa2f9e4e811e09174&=',
-            largeText: 'Nym..!?',
-            smallImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338126456705777746/8285d845fbce5ede830d6291fec56b14.gif?ex=67ad3ea0&is=67abed20&hm=e7ffeab881385bc7ffc6d6779791828b94ae8b33a3f1c500fa189328250f1a95&=',
+            largeImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338451307119509554/5a309a4848e5724164982a83a7ed3ad7.gif?ex=67c6282a&is=67c4d6aa&hm=8c17b2293da874738ac074d4d642d363180a7fddecd797ecb993e047f62d5d17&=&width=325&height=350',
+            largeText: 'Money..!?',
+            smallImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338795355659046922/4eb056dae9372fb0907723a060fd3f84.gif?ex=67c61716&is=67c4c596&hm=79cc472e880032b0cc6400b69f8415a8ca3c1219bf2eace3954cd6c522275fce&=',
             smallText: 'Damn..!?'
         },
         buttons: [
@@ -103,7 +103,7 @@ const rpcStates = [
             start: Date.now()
         },
         assets: {
-            largeImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338920892809347163/20220827_072402.gif?ex=67ad7f80&is=67ac2e00&hm=c6004393f94e2802ea813b32e6ac1f43829bcde44330993dee0734af9e409514&=',
+            largeImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338920892809347163/20220827_072402.gif?ex=67c68c00&is=67c53a80&hm=6d26966f42a479503421f49b9574dc073a39dd59a40388bf1224a17467611bd8&=',
             largeText: 'Hihi...',
             smallImage: 'https://cdn.discordapp.com/emojis/1312633052668629055.gif?size=48',
             smallText: 'Be aware'
