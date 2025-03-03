@@ -96,14 +96,14 @@ const rpcStates = [
     },
     {
         type: 'PLAYING',
-        name: 'Supii<3 🥀',
-        details: 'Kaizen Loves Supriya 💖<3',
-        state: 'Only her 🥰..!?',
+        name: 'The End<3 🥀',
+        details: 'Type shi.',
+        state: 'Damn..!?',
         timestamps: {
             start: Date.now()
         },
         assets: {
-            largeImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338920892809347163/20220827_072402.gif?ex=67c68c00&is=67c53a80&hm=6d26966f42a479503421f49b9574dc073a39dd59a40388bf1224a17467611bd8&=',
+            largeImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338446053711544448/a_f7adae56929e2404cd199bfbf49e4bb2.gif?ex=67c6cc06&is=67c57a86&hm=69359bdac472d653d25036d40e5b5573466ba9a773ff3f47a52a6f6cf30681a1&=',
             largeText: 'Hihi...',
             smallImage: 'https://cdn.discordapp.com/emojis/1312633052668629055.gif?size=48',
             smallText: 'Be aware'
