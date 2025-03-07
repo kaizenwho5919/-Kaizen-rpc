@@ -65,10 +65,10 @@ const rpcStates = [
             start: Date.now()
         },
         assets: {
-            largeImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338796205114654730/49969923d81582ef25c5ac1fedb71e45_1.gif?ex=67c617e0&is=67c4c660&hm=413edb6ce8b8cfc65015d15ffe2755f074128f06934863128737cd6e593ef6db&=',
-            largeText: 'CR7🗿..!?',
-            smallImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338126456705777746/8285d845fbce5ede830d6291fec56b14.gif?ex=67c64b20&is=67c4f9a0&hm=f7eb7817c2d6e86b0de7105b14bc05d4033b88f58f141ab7a44032fd69959068&=',
-            smallText: 'Hacker Mode'
+            largeImage: 'https://cdn.discordapp.com/emojis/1347481505420808243.gif?size=96',
+            largeText: 'Damn🗿..!?',
+            smallImage: 'https://cdn.discordapp.com/emojis/1347481965003149322.png?size=96',
+            smallText: 'Om'
         },
         buttons: [
             { label: 'GitHub', url: 'https://github.com/WannaBeGhoSt' },
@@ -84,9 +84,9 @@ const rpcStates = [
             start: Date.now()
         },
         assets: {
-            largeImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338451307119509554/5a309a4848e5724164982a83a7ed3ad7.gif?ex=67c6282a&is=67c4d6aa&hm=8c17b2293da874738ac074d4d642d363180a7fddecd797ecb993e047f62d5d17&=&width=325&height=350',
-            largeText: 'Money..!?',
-            smallImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338795355659046922/4eb056dae9372fb0907723a060fd3f84.gif?ex=67c61716&is=67c4c596&hm=79cc472e880032b0cc6400b69f8415a8ca3c1219bf2eace3954cd6c522275fce&=',
+            largeImage: 'https://cdn.discordapp.com/emojis/1347481688053252106.jpg?size=96',
+            largeText: '067..!?',
+            smallImage: 'https://cdn.discordapp.com/emojis/1347481472826609685.gif?size=96',
             smallText: 'Damn..!?'
         },
         buttons: [
@@ -103,8 +103,8 @@ const rpcStates = [
             start: Date.now()
         },
         assets: {
-            largeImage: 'https://media.discordapp.net/attachments/1277534645633683469/1338446053711544448/a_f7adae56929e2404cd199bfbf49e4bb2.gif?ex=67c6cc06&is=67c57a86&hm=69359bdac472d653d25036d40e5b5573466ba9a773ff3f47a52a6f6cf30681a1&=',
-            largeText: 'Hihi...',
+            largeImage: 'https://cdn.discordapp.com/emojis/1347482177419477025.gif?size=96',
+            largeText: 'Obito...',
             smallImage: 'https://cdn.discordapp.com/emojis/1312633052668629055.gif?size=48',
             smallText: 'Be aware'
         },
