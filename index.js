@@ -84,8 +84,8 @@ const rpcStates = [
             start: Date.now()
         },
         assets: {
-            largeImage: 'https://cdn.discordapp.com/emojis/1347481688053252106.jpg?size=96',
-            largeText: '067..!?',
+            largeImage: 'https://cdn.discordapp.com/emojis/1348582232285122661.jpg?size=96',
+            largeText: 'X And Juice..!?',
             smallImage: 'https://cdn.discordapp.com/emojis/1347481472826609685.gif?size=96',
             smallText: 'Damn..!?'
         },
